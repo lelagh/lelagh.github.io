@@ -20,6 +20,6 @@ These are here because they're useful to me, possibly also, dear reader, they wi
 
   Figure out the odds of placing an order are going to be (fixer "drop chance" calculator).
 
-* [Successe Calculator](https://lelagh.github.io/successes/)
+* [Successes Calculator](https://lelagh.github.io/successes/)
 
   Gives you the percentage chance that x dice will give at least y successes.
